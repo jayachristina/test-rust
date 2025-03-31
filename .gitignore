@@ -1,0 +1,12 @@
+/build/
+/node_modules/
+/public/
+yarn.lock
+.tool-versions
+package-lock.json
+
+.vscode/
+.idea
+
+#MacOSX
+.DS_Store
